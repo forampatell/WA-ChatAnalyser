@@ -62,18 +62,7 @@ Stats Analysis that app provides for a group chat-
 
     https://wa-analyser.herokuapp.com/
 - Once the app is opened , upload the chat file in .txt format and brose it to analyse the chats.
-## Analysis
-Stats Analysis that app provides for a group chat-
 
-- Total No. of Messages.
-- Total No. of words.
-- Total No. of Media shared.
-- Total No. of links shared.
-- Most Busy Users.
-- Wordcloud- An image of composed of words in which the size of a word defines frequency of that word.
-- Most common words.
-- Monthly Timeline. 
-- Activity Maps- Most busy day, Most busy month.
 ## Deployment
 
 ##### Steps to deploy an app on Heroku-

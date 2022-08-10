@@ -61,7 +61,7 @@ Stats Analysis that app provides for a group chat-
 - Click on the following link that will direct you to the app(already deployed on Heroku)-
 
     https://wa-analyser.herokuapp.com/
-- Once the app is opened , upload the chat file in .txt format and brose it to analyse the chats.
+- Once the app is opened , upload the chat file in .txt format and browse it to analyse the chats.
 
 ## Deployment
 

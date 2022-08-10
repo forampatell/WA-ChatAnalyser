@@ -25,7 +25,7 @@ wordcloud
 regex
 
 ## Implementation
-Steps taken to implement the programme-
+Steps taken to implement the program-
 
 - The first step we perform is to collect the data of chat/group chat and save the file in a project folder.
 - From the data collected, we can now preprocess the data and extract important features from it.
